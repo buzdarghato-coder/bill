@@ -1,0 +1,7 @@
+{
+  "appId": "pk.nasir.securevision",
+  "appName": "Nasir Secure Vision",
+  "webDir": "www",
+  "backgroundColor": "#0b0d14",
+  "android": { "allowMixedContent": false }
+}
